@@ -1,8 +1,8 @@
 # PNU_3991_AR
 ---------
 <h1 dir=rtl>
-داریوش هادی پور
- </h1>
+ داریوش هادی پور
+</h1>
 <div dir=rtl>
  
 - [Github](https://github.com/DariushStony/)
@@ -13,10 +13,12 @@
 
 - [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-JavaScript.png)
  
-- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-React_Redux.png)
+- [React-Redux_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-React_Redux.jpg)
  
-- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-HTML.png)
+- [HTML_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-HTML.jpg)
  
-- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-CSS.png)
+- [CSS_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-CSS.jpg)
  
-- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-jQuery.png)
+- [jQuery_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-jQuery.jpg)
+ 
+ </div>
