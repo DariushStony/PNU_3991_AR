@@ -9,8 +9,14 @@
 
 - [Resume](http://www.dariushhadipour.ir)
 
-- [SOP](https://github.com/DariushStony/PNU_3391/SOP)
+- [SOP](https://github.com/DariushStony/PNU_3991_AR/tree/main/SOP)
 
-- [jlord_patchwork]()
-
-- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/Licences/SoloLearn-JavaScript.jpg)
+- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-JavaScript.png)
+ 
+- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-React_Redux.png)
+ 
+- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-HTML.png)
+ 
+- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-CSS.png)
+ 
+- [JavaScript_certificate](https://github.com/DariushStony/PNU_3991_AR/blob/main/Licences/SoloLearn-jQuery.png)
